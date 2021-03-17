@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Iaew galera, eu sou o Glenilson Santil </h1>
+<p align="center">
+<h1 Iaew galera, eu sou o Glenilson Santil </h1>
 
 <p align="center">
 - 👨‍💻 I’m currently learning JavaScript, TypeScript, ReactJS
