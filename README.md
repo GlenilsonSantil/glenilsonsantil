@@ -21,5 +21,5 @@
 <a href="https://twitter.com/GlenilsonSantil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/glenilsonsantil/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://www.facebook.com/glenilsons/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://www.instagram.com/glenilsonsantil/" target="blank"><img align="center" src="<img src="https://img.icons8.com/cotton/64/000000/instagram-new.png"/>" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://www.instagram.com/glenilsonsantil/" target="blank"><img align="center" src="<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>" alt="maykbrito" height="20" width="20" /></a>
 </p>
