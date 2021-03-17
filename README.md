@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Iaew galera, eu sou o Glenilson Santil </h1>
+<h1 align="center"> Iaew galera, Belleza? eu sou o Glenilson Santil </h1>
 
 <p align="center">
 - 👨‍💻 I’m currently learning JavaScript, TypeScript, ReactJS
