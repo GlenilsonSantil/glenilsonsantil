@@ -1,19 +1,24 @@
-## Iaew galera, eu sou o Glenilson Santil
-<a href="https://github.com/RafaBallerini">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=glenilsonsantil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Iaew galera, eu sou o Glenilson Santil </h1>
+
+
+- 👨‍💻 I’m currently learning HTML, CSS, JavaScript, ReactJS
+
+- 🤔 I’m looking for help with ReactJS
+
+- 📫 How to reach me *renato.marinhofr@gmail.com*
+
+<p align="left">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+</p>
   
-  ##
-  
-  <div>
-    <a href = "mailto: glenilsonbass@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/glenilsonsantil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/channel/UCK_oJS-na8GlCza6Pc2dZNg" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/glenilsonsantil/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=renatomarinhofr&show_icons=true" alt="renatomarinho"/><br/>
+<a href="https://twitter.com/RenatoM23892889" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/renato-marinho-499900172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://www.facebook.com/renato.marinho.940/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://www.instagram.com/renato.marinhofr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
+</p>
