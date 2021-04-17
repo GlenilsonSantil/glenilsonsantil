@@ -6,7 +6,7 @@
 
 • How to reach me *glenilsonbass@gmail.com*
 	
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=glenilsonsantil&show_icons=true" alt="glenilsonsantil"/><br/>
+<p align="center">
 <a href="https://twitter.com/GlenilsonSantil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/glenilsonsantil/" target="blank"><img align="center" src="https://f0.pngfuel.com/png/93/587/linkedin-logo-png-clip-art.png" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://www.facebook.com/glenilsons/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
