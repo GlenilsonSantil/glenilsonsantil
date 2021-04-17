@@ -2,18 +2,28 @@
 
 • Nowadays studying ReactJS and NodeJS;
 
+• How to reach me *glenilsonbass@gmail.com*
+
 "90% of success is based on insisting." - Woody Allen
 
-• How to reach me *glenilsonbass@gmail.com*
-	
+
+
 <p align="center">
-<a href="https://twitter.com/GlenilsonSantil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/glenilsonsantil/" target="blank"><img align="center" src="https://f0.pngfuel.com/png/93/587/linkedin-logo-png-clip-art.png" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://www.facebook.com/glenilsons/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://www.instagram.com/glenilsonsantil/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.DWugoLIiK6MIiv5sfToTQQHaHa?pid=ImgDet&rs=1" alt="maykbrito" height="20" width="20" /></a>
+    <a href="https://twitter.com/GlenilsonSantil" target="blank"><img src="https://img.icons8.com/dusk/64/000000/twitter.png"/></a>
+	<a href="https://www.instagram.com/glenilsonsantil/" target="blank"><img src="https://img.icons8.com/dusk/64/000000/instagram.png"/></a>
+    <a href="https://www.facebook.com/glenilsons/" target="blank"><img src="https://img.icons8.com/dusk/64/000000/facebook.png"/></a>
+    <a href="https://www.linkedin.com/in/glenilsonsantil/" target="blank"><img src="https://img.icons8.com/dusk/64/000000/linkedin.png"/></a>
 </p>
 
-<a href="https://github.com/glenilsonsantil">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=glenilsonsantil&theme=dracula&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenilsonsantil&layout=compact&theme=dracula"/>
-<div>
+<p align="center">
+	<a href="https://github.com/glenilsonsantil">
+	  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=glenilsonsantil&theme=dracula&show_icons=true"/>
+	  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenilsonsantil&layout=compact&theme=dracula"/>
+</p>
+<p align="center">
+	<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+	<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+	<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+	<img src="https://img.icons8.com/office/48/000000/react.png"/>
+	<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+</p>
