@@ -20,6 +20,7 @@
 	  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=glenilsonsantil&theme=dracula&show_icons=true"/>
 	  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenilsonsantil&layout=compact&theme=dracula"/>
 </p>
+<div>
 <p align="center">
 	<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 	<img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -29,3 +30,4 @@
 </p>
 
 ![Snake animation](https://github.com/glenilsonsantil/glenilsonsantil/blob/output/github-contribution-grid-snake.svg)
+</div>
