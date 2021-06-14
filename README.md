@@ -27,3 +27,5 @@
 	<img src="https://img.icons8.com/office/48/000000/react.png"/>
 	<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </p>
+
+![Snake animation](https://github.com/rafaballerini/glenilsonsantil/blob/output/github-contribution-grid-snake.svg)
