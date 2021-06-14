@@ -28,4 +28,4 @@
 	<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </p>
 
-![Snake animation](https://github.com/rafaballerini/glenilsonsantil/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/glenilsonsantil/glenilsonsantil/blob/output/github-contribution-grid-snake.svg)
