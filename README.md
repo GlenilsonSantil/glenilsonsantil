@@ -7,27 +7,28 @@
 "90% of success is based on insisting." - Woody Allen
 
 
-
-<p align="center">
-    <a href="https://twitter.com/GlenilsonSantil" target="blank"><img src="https://img.icons8.com/dusk/64/000000/twitter.png"/></a>
-	<a href="https://www.instagram.com/glenilsonsantil/" target="blank"><img src="https://img.icons8.com/dusk/64/000000/instagram.png"/></a>
-    <a href="https://www.facebook.com/glenilsons/" target="blank"><img src="https://img.icons8.com/dusk/64/000000/facebook.png"/></a>
-    <a href="https://www.linkedin.com/in/glenilsonsantil/" target="blank"><img src="https://img.icons8.com/dusk/64/000000/linkedin.png"/></a>
-</p>
-
-<p align="center">
-	<a href="https://github.com/glenilsonsantil">
-	  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=glenilsonsantil&theme=dracula&show_icons=true"/>
-	  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenilsonsantil&layout=compact&theme=dracula"/>
-</p>
 <div>
-<p align="center">
-	<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-	<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-	<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-	<img src="https://img.icons8.com/office/48/000000/react.png"/>
-	<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-</p>
+	<p align="center">
+		<a href="https://twitter.com/GlenilsonSantil" target="blank"><img src="https://img.icons8.com/dusk/64/000000/twitter.png"/></a>
+		<a href="https://www.instagram.com/glenilsonsantil/" target="blank"><img src="https://img.icons8.com/dusk/64/000000/instagram.png"/></a>
+		<a href="https://www.facebook.com/glenilsons/" target="blank"><img src="https://img.icons8.com/dusk/64/000000/facebook.png"/></a>
+	    	<a href="https://www.linkedin.com/in/glenilsonsantil/" target="blank"><img src="https://img.icons8.com/dusk/64/000000/linkedin.png"/></a>
+	</p>
+
+	<p align="center">
+		<a href="https://github.com/glenilsonsantil">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=glenilsonsantil&theme=dracula&show_icons=true"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glenilsonsantil&layout=compact&theme=dracula"/>
+	</p>
+</div>
+<div>
+	<p align="center">
+		<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+		<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+		<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+		<img src="https://img.icons8.com/office/48/000000/react.png"/>
+		<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+	</p>
 
 	![Snake animation](https://github.com/glenilsonsantil/glenilsonsantil/blob/output/github-contribution-grid-snake.svg)
 </div>
