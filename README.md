@@ -6,9 +6,7 @@
 
 "90% of success is based on insisting." - Woody Allen
 
- <picture>
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/seuusuario/seuusuario/output/nome-do-arquivo-gerado-no-output.svg">
-</picture>
+
 
 <div>
 <p align="center">
@@ -30,5 +28,9 @@
 	<img src="https://img.icons8.com/office/48/000000/react.png"/></a>
 	<img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 </p>
+
+<picture>
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/seuusuario/seuusuario/output/nome-do-arquivo-gerado-no-output.svg">
+</picture>
 
 </div>
