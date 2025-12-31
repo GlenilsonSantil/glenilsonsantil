@@ -6,17 +6,13 @@
 
 "90% of success is based on insisting." - Woody Allen
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glenilsonsantil/glenilsonsantil/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ysabellax/ysabellax/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ysabellax/ysabellax/output/pacman-contribution-graph.svg">
+ <picture>
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/seuusuario/seuusuario/output/nome-do-arquivo-gerado-no-output.svg">
 </picture>
 
 <div>
 <p align="center">
-	<a href="https://twitter.com/GlenilsonSantil" target="blank"><img src="https://img.icons8.com/dusk/64/000000/twitter.png"/></a>
 	<a href="https://www.instagram.com/glenilsonsantil/" target="blank"><img src="https://img.icons8.com/dusk/64/000000/instagram.png"/></a>
-	<a href="https://www.facebook.com/glenilsons/" target="blank"><img src="https://img.icons8.com/dusk/64/000000/facebook.png"/></a>
 	<a href="https://www.linkedin.com/in/glenilsonsantil/" target="blank"><img src="https://img.icons8.com/dusk/64/000000/linkedin.png"/></a>
 </p>
 
@@ -34,6 +30,5 @@
 	<img src="https://img.icons8.com/office/48/000000/react.png"/></a>
 	<img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 </p>
-	<a href="https://github.com/glenilsonsantil">
-	![Snake animation](https://github.com/glenilsonsantil/glenilsonsantil/blob/output/github-contribution-grid-snake.svg)
+
 </div>
