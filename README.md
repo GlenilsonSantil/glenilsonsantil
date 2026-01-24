@@ -12,7 +12,6 @@
 <p align="center">
 	<a href="https://www.instagram.com/glenilsonsantil/" target="blank"><img src="https://img.icons8.com/dusk/64/000000/instagram.png"/></a>
 	<a href="https://www.linkedin.com/in/glenilsonsantil/" target="blank"><img src="https://img.icons8.com/dusk/64/000000/linkedin.png"/></a>
-	<a href="https://www.python.org/" target="blank"><img src="https://th.bing.com/th/id/OIP.48vJ2PkfeZjew3R1NOQUXwHaEb?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"/></a>
 	
 </p>
 
